@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\trash\\Asp.net Configuration\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Долгих\\Desktop\\ConfigureProjectJenkins\\ConfigureProjectJenkins\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\work\\trash\\Asp.net Configuration\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\Долгих\\Desktop\\ConfigureProjectJenkins\\ConfigureProjectJenkins\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Долгих\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\trash\\Asp.net Configuration\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Долгих\\Desktop\\ConfigureProjectJenkins\\ConfigureProjectJenkins\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
